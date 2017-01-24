@@ -66,6 +66,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
   excon
   git!
   heroku_hatchet
